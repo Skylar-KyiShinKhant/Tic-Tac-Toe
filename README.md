@@ -1,5 +1,5 @@
-# Tic Tac Toe
-....
+# [Tic-Tac-Toe](https://skylar-kyishinkhant.github.io/Tic-Tac-Toe/)
+This version of Tic Tac Toe features gameplay against an unbeatable artificial intelligence, offering players the potential outcomes of either experiencing defeat or securing a draw.
 
 ## Table of Contents
 - [About The Project](https://github.com/Skylar-KyiShinKhant/Tic-Tac-Toe/blob/Skylar-KyiShinKhant-patch-1/README.md#about-the-project)
