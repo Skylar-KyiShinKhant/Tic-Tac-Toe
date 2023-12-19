@@ -13,6 +13,7 @@ This version of Tic Tac Toe features gameplay against an unbeatable artificial i
 - [License](https://github.com/Skylar-KyiShinKhant/Tic-Tac-Toe/blob/Skylar-KyiShinKhant-patch-1/README.md#license)
 - [Contact](https://github.com/Skylar-KyiShinKhant/Tic-Tac-Toe/blob/Skylar-KyiShinKhant-patch-1/README.md#contact)
 - [Acknoledgements](https://github.com/Skylar-KyiShinKhant/Tic-Tac-Toe/blob/Skylar-KyiShinKhant-patch-1/README.md#acknoledgements)
+
 </details>
 
 ## About The Project
