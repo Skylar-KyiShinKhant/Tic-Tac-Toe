@@ -18,7 +18,7 @@ This version of Tic Tac Toe features gameplay against an unbeatable artificial i
 
 ## About The Project
 The player will get to choose the mark and play the game against AI where you will get to make the first move. The winner is determined as 3 of his/her mark are in a row (up, down, cross, or diagonally).
-![](https://github.com/Skylar-KyiShinKhant/Tic-Tac-Toe/blob/Skylar-KyiShinKhant-patch-1/TicTacToe.gif)
+![](https://github.com/Skylar-KyiShinKhant/Tic-Tac-Toe/blob/main/TicTacToe.gif)
 
 ## Built with
 - HTML
