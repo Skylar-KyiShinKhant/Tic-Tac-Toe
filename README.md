@@ -16,7 +16,7 @@ This version of Tic Tac Toe features gameplay against an unbeatable artificial i
 </details>
 
 ## About The Project
-
+![](https://github.com/Skylar-KyiShinKhant/Tic-Tac-Toe/blob/Skylar-KyiShinKhant-patch-1/TicTacToe.gif)
 
 ## Built with
 - HTML
