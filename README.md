@@ -24,7 +24,7 @@ This version of Tic Tac Toe features gameplay against an unbeatable artificial i
 - Javascript
 
 ## Getting Started
-To set up a local copy, follow these straightforward steps as outlined in the provided example.
+To set up a local copy, follow these straightforward steps as outlined.
 
 ## Prerequisites
 This game has minimal prerequisites, requiring only a web browser that supports HTML5 and CSS3 for seamless play.
@@ -47,23 +47,6 @@ This game has minimal prerequisites, requiring only a web browser that supports 
 ## Contributing
 We love contributions — they're what make the open-source community awesome! Your ideas to improve this project are welcome. Feel free to fork the repository, submit a pull request. And of course, your support by giving the project a star would be appreciated! Thanks for being part of it!
 
-Here's a step-by-step guide to contribute:
-
-1. Fork the project.
-2. Create your feature branch
-   ```
-   git checkout -b feature
-   ```
-3. Commit your changes
-   ```
-   git commit -m 'Add some messages for your feature'
-   ```
-6. Push to the branch
-   ```
-   git push origin feature
-   ```
-8. Open a pull request.
-
 ## License
 Distributed under the MIT License. See ```LICENSE.txt``` for more information.
 
@@ -73,4 +56,7 @@ Distributed under the MIT License. See ```LICENSE.txt``` for more information.
 <p>Project Link : https://github.com/Skylar-KyiShinKhant/Tic-Tac-Toe.git</p>
 
 ## Acknoledgements
-In acknowledgment of the completion of this project, I formally express my gratitude to [freeCodeCamp](https://www.freecodecamp.org/).
+In acknowledgment of the completion of this project, I formally express my gratitude to 
+- [freeCodeCamp](https://www.freecodecamp.org/)
+- [Othneil's Best README Template](https://github.com/othneildrew/Best-README-Template)
+- [Jake's How to Fork a Repo and Pull a PR](https://jarv.is/notes/how-to-pull-request-fork-github/)
