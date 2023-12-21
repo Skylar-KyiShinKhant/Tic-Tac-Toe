@@ -61,4 +61,3 @@ Distributed under the MIT License. See ```LICENSE.txt``` for more information.
 In acknowledgment of the completion of this project, I formally express my gratitude to 
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [Othneil's Best README Template](https://github.com/othneildrew/Best-README-Template)
-- [Jake's How to Fork a Repo and Pull a PR](https://jarv.is/notes/how-to-pull-request-fork-github/)
