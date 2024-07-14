@@ -57,7 +57,7 @@ Distributed under the MIT License. See ```LICENSE.txt``` for more information.
 <p>Email : kyishinkhant2003@gmail.com</p>
 <p>Project Link : https://github.com/Skylar-KyiShinKhant/Tic-Tac-Toe.git</p>
 
-## Acknoledgements
+## Acknowledgements
 In acknowledgment of the completion of this project, I formally express my gratitude to 
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [Othneil's Best README Template](https://github.com/othneildrew/Best-README-Template)
