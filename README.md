@@ -1,4 +1,4 @@
-# [Tic-Tac-Toe](https://skylar-kyishinkhant.github.io/Tic-Tac-Toe/)
+# [Unbeatable Tic-Tac-Toe](https://skylar-kyishinkhant.github.io/Tic-Tac-Toe/)
 This version of Tic Tac Toe features gameplay against an unbeatable artificial intelligence, offering players the potential outcomes of either experiencing defeat or securing a draw.
 
 <details> 
